@@ -45,6 +45,8 @@ No terminal execute o comando:
 
 
 **PRINTS DO SISTEMA FUNCIONANDO**
+
+
 <img width="302" height="112" alt="Captura de tela 2026-06-05 122026" src="https://github.com/user-attachments/assets/52343699-aee4-4690-8fb1-f20b25e2ca29" />
 <img width="398" height="56" alt="Captura de tela 2026-06-05 122004" src="https://github.com/user-attachments/assets/0cebbeeb-2119-43b5-9b43-8d35382c775a" />
 <img width="412" height="312" alt="Captura de tela 2026-06-05 121900" src="https://github.com/user-attachments/assets/fa1764ae-22c5-4afa-84f9-0e806480a329" />
