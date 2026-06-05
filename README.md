@@ -1,4 +1,4 @@
-# Avalia-o-III-POO
+# Avaliação III POO
 Sistema Fast Delivery
 
 Sistema baseado em terminal através de um MENU projetado para o gerenciamento de entregas urbanas da empresa FastDelivery Express, automatizando o controle de clientes, entregadores e o cálculo personalizado de fretes de pedidos.
