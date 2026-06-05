@@ -1,0 +1,18 @@
+from modelos.pessoa import Pessoa
+
+class Cliente(Pessoa):
+    def __init__(self, nome: str, cpf: str, telefone: str, endereco: str):
+        super().__init__(nome)
+        self.__cpf = cpf
+        self.__telefone = telefone
+        self.__endereco = endereco
+
+    # GETTERS PARA PROTEGER OS DADOS
+    @property
+    def cpf(self) -> str: return self.__cpf
+
+    @property
+    def telefone(self) -> str: return self.__telefone
+
+    @property
+    def endereco(self) -> str: return self.__endereco
